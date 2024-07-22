@@ -1,3 +1,3 @@
 # Demo
 
-![](Capture.PNG)
+![Screenshot](Capture.PNG)
