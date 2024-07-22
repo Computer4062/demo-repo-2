@@ -1,6 +1,6 @@
 # Demo
 
-![](Capture.PNG)
+![screenshot](Capture.PNG)
 
 ## subheading
 
